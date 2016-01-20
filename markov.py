@@ -33,7 +33,6 @@ def generateRandomSentence():
 
 buildDictionaryFromFile()
 print generateRandomSentence()
-print line_enders
 
 
 
